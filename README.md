@@ -1,7 +1,9 @@
+<div>
 ![header](https://capsule-render.vercel.app/api?
 type=rounded&color=timeGradient&text=Welcome%20to%20Kong's%20GitHub%20👋
 &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-
+</div>
+<br/>
 ## Tech 👋
 ### FrontEnd
 <a href="＃" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
