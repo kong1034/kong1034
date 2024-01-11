@@ -1,9 +1,5 @@
-<div>
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20Kong's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-</div>
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CD&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Kong's+GitHub!👋)](https://git.io/typing-svg)
 ## Tech 👋
 ### FrontEnd
 <a href="＃" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
